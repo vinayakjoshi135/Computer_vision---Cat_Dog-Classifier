@@ -68,4 +68,3 @@ jupyter notebook classifier.ipynb
 
 ## Author
 Vinayak Joshi
-MBA (Business Analytics)
